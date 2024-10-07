@@ -3,6 +3,7 @@
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,java,py,mysql,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
