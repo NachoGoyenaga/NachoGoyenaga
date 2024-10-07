@@ -3,7 +3,7 @@
 </br>
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,java,py,mysql,azure,github" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,java,py,mysql,azure,github,sql" />
 
 <!--
 **NachoGoyenaga/NachoGoyenaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
