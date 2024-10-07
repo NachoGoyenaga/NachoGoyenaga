@@ -1,5 +1,7 @@
-<h1>Hola, soy Igancio Goyenaga Castro 👋</h1> 
+<h1>Hola, soy Igancio Goyenaga Castro 👋</h1>
+
 </br>
+
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,java,py,mysql,azure,github" />
 
