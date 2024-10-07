@@ -3,7 +3,7 @@
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 
-![image](https://github.com/user-attachments/assets/d78d1ead-6106-4187-96d5-116e7037b4cb)
+
 
 
 
