@@ -1,5 +1,15 @@
 ## Hola, soy Igancio Goyenaga Castro 👋
 
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,spring,maven,css,html,js,mysql,git,github,idea,eclipse,vscode&perline=12" />
+  </a>
+</p>
+<br>
+
 <!--
 **NachoGoyenaga/NachoGoyenaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
